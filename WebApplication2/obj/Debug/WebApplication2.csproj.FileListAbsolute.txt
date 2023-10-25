@@ -224,3 +224,7 @@ C:\Users\Shafiq\Desktop\asptest\WebApplication2\obj\Debug\WebApplication2.csproj
 C:\Users\Shafiq\Desktop\asptest\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
 C:\Users\Shafiq\Desktop\asptest\WebApplication2\obj\Debug\WebApplication2.dll
 C:\Users\Shafiq\Desktop\asptest\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\Shafiqul\Desktop\asptest\asptest\WebApplication2\obj\Debug\WebApplication2.Migrations.InitialModelMigration.resources
+C:\Users\Shafiqul\Desktop\asptest\asptest\WebApplication2\obj\Debug\WebApplication2.csproj.GenerateResource.cache
+C:\Users\Shafiqul\Desktop\asptest\asptest\WebApplication2\obj\Debug\WebApplication2.Migrations.addedProductTable.resources
+C:\Users\Shafiqul\Desktop\asptest\asptest\WebApplication2\obj\Debug\WebApplication2.Migrations.addedProductTable1.resources
