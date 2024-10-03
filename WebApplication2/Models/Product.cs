@@ -14,7 +14,7 @@ namespace WebApplication2.Models
         public int Quentity { get; set; }
         public string Unitprice { get; set; }
         public string Description { get; set; }
-        public Catagory Catagory { get; set }
+        public Catagory Catagory { get; set; }
 
 
     }
